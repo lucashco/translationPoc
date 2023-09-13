@@ -1,0 +1,13 @@
+{
+  "translation": {
+    "hello": "Hola",
+    "welcome": "ingrese su correo electrónico y contraseña para iniciar sesión",
+    "email_placeholder": "Ingresa tu correo electrónico",
+    "password_placeholder": "Ingresa tu contraseña",
+    "email_label": "Correo electrónico",
+    "password_label": "Contraseña",
+    "forgot_password": "Olvidé mi contraseña",
+    "sign_in": "Iniciar sesión",
+    "create_account": "Crear una cuenta"
+  }
+}
